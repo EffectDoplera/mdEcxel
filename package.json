@@ -1,0 +1,24 @@
+{
+  "name": "mdexcel",
+  "version": "1.0.0",
+  "description": "pure javascript excel application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EffectDoplera/mdEcxel.git"
+  },
+  "keywords": [
+    "JS",
+    "javascript",
+    "excel"
+  ],
+  "author": "Mikhail Danshin <effectdopler0@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EffectDoplera/mdEcxel/issues"
+  },
+  "homepage": "https://github.com/EffectDoplera/mdEcxel#readme"
+}
